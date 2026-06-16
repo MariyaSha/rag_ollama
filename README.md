@@ -1,5 +1,5 @@
 # Turn Any LLM Into Expert - Simple Python RAG Project For Beginners
-a step by step pipeline of RAG with Ollama, Langchain, FAISS.
+A step by step pipeline of Retrieval-Augmented Generation with Ollama, Langchain, FAISS.
 
 What if we could take a language model, and turn it into an expert on something it has never seen before? Not by teaching it, but by giving it fast access to documents.
 Like - a serious investigation into whether **Lord Elrond** is secretly **Agent Smith**. And that’s exactly what we’ll do today!
@@ -12,3 +12,5 @@ By the end of the video, you will fully understand the RAG process and how to ma
 
 ## Video Tutorial 🎥
 <a href="" target="_blank"><img width="600" alt="RAG Python Project thumbnail" src="https://github.com/user-attachments/assets/2be4c4ba-7013-446b-81e2-a571caf502a7" /></a>
+
+Premiering tomorrow!
