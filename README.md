@@ -11,6 +11,5 @@ We will learn about chunking, embeddings, vector databases and retrieval, using 
 By the end of the video, you will fully understand the RAG process and how to make hilarious projects with your new set of skills 💪.
 
 ## Video Tutorial 🎥
-<a href="" target="_blank"><img width="600" alt="RAG Python Project thumbnail" src="https://github.com/user-attachments/assets/2be4c4ba-7013-446b-81e2-a571caf502a7" /></a>
+<a href="https://youtu.be/oZYlrooPgvs" target="_blank"><img width="600" alt="RAG Python Project thumbnail" src="https://github.com/user-attachments/assets/2be4c4ba-7013-446b-81e2-a571caf502a7" /></a>
 
-Premiering tomorrow!
